@@ -1,22 +1,17 @@
 # awesome-animetrics
 Resources on the intersection between animal behavior and machine learning.
 
-### Aim
-* Increasing the animal welfare using artificial intelligence. 
-* To recognize abnormality to propose improvements.
 
-### How artificial intelligence can be used in this area?
+### Competitions
 
-Applications|Frequency
-------------|----------
-Abnormality detection | 5%
-Animal recognition | 37%
-Behavior recognition | 36%
-Individual identification | 20%
-Scoring | 7%
+* [Humpback Whale Identification
+Can you identify a whale by its tail?](https://www.kaggle.com/c/humpback-whale-identification/code?competitionId=6818&sortBy=voteCount)
+* [Animal Classification
+Recognize different species of animals in images](https://www.kaggle.com/c/ugentml18-1)
 
 
-### References
+### Articles
+
 * [Machine learning for inferring animal behavior from location and movement data](https://www.sciencedirect.com/science/article/pii/S1574954118302036)
 
 * [The role of sensors, big data and machine learning in modern animal farming](https://www.sciencedirect.com/science/article/pii/S2214180420301343)
