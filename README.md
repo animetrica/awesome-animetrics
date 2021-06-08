@@ -26,6 +26,10 @@ Can you identify a whale by its tail?](https://www.kaggle.com/c/humpback-whale-i
 
 * [Animal Classification - no pretrained models](https://www.kaggle.com/c/ugentml18-3) - 2018
 
+* [Livestock Feed Order Prediction](https://www.kaggle.com/c/livestock-feed-order-prediction) - 2018
+
+* [Farm Yield Prediction](https://www.kaggle.com/c/fyp) - 2018
+
 * [Animal Classification
 Recognize different species of animals in images](https://www.kaggle.com/c/ugentml18-1) - 2017
 
