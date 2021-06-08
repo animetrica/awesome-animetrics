@@ -3,7 +3,7 @@ Resources on the intersection between animal behavior and machine learning.
 
 
 ### Competitions
-* [Rainforest Connection Species Audio Detection](https://www.kaggle.com/c/rfcx-species-audio-detection/overview) - 2021 (open)
+* [Rainforest Connection Species Audio Detection](https://www.kaggle.com/c/rfcx-species-audio-detection/overview) - 2021
 
 * [Permuted Animal Faces](https://www.kaggle.com/c/permuted-animal-faces) - 2021
 
